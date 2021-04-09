@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "400193389831",
+    "project_id": "playersarena-bf528",
+    "storage_bucket": "playersarena-bf528.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400193389831:android:3dee64452288ab9f52f1a2",
+        "android_client_info": {
+          "package_name": "xyz.toors.toors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400193389831-4s45s0bk7cv0uoue053mto15d5nnvgs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWXjaTRMiT5kQgR563uulisoFWMmrPFNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400193389831-4s45s0bk7cv0uoue053mto15d5nnvgs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

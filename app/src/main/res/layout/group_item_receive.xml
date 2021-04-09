@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_margin="10dp"
+    android:paddingRight="20dp"
+    android:orientation="vertical"
+    android:background="@drawable/receive_msg_corner"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/group_receivedmsg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:layout_marginLeft="20dp"
+        android:textColor="#090909"
+        android:paddingLeft="10dp"
+        android:paddingRight="15dp"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="anonymous"
+        android:textColor="#636363"
+        android:paddingLeft="5dp"
+        android:layout_marginLeft="20dp"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:id="@+id/receiver"
+
+        />
+</LinearLayout>

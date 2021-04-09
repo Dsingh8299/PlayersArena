@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">400193389831-4s45s0bk7cv0uoue053mto15d5nnvgs5.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">400193389831</string>
+    <string name="google_api_key" translatable="false">AIzaSyCWXjaTRMiT5kQgR563uulisoFWMmrPFNk</string>
+    <string name="google_app_id" translatable="false">1:400193389831:android:3dee64452288ab9f52f1a2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCWXjaTRMiT5kQgR563uulisoFWMmrPFNk</string>
+    <string name="google_storage_bucket" translatable="false">playersarena-bf528.appspot.com</string>
+    <string name="project_id" translatable="false">playersarena-bf528</string>
+</resources>
